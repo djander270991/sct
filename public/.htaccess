@@ -1,4 +1,5 @@
 <IfModule mod_rewrite.c>
+#sdffsdfs
     <IfModule mod_negotiation.c>
         Options -MultiViews -Indexes
     </IfModule>
