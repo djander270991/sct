@@ -1,5 +1,5 @@
 <?php
-
+echo( 'Hello IT school!!');
 use Illuminate\Foundation\Inspiring;
 
 /*
