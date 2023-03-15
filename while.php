@@ -1,6 +1,6 @@
 <?php
 $world = 'Zemlya';
-function revert($word){
+function revers($word){
     $i = 0;
     $result = ' ';
     while($i<strlen($word)){
@@ -11,5 +11,5 @@ function revert($word){
     }
     echo $result;
 }
-revert($world);
+revers($world);
 
